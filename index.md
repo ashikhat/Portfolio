@@ -14,7 +14,7 @@ Now a days lots of fraud's going on in the market. This project allows business 
 > * Lifting analysis of truss assemblies
 <br>
 
-<center><img src="assets/img/Andritz.JPG"/></center>
+<center><img src="assets/img/Andritz.JPG" width="500" height= "500" /></center>
 
 ## Arcelor Mittal’s Reconstruction of Coke Oven Batteries By-product Plant. (Gijon, Sapin)
 > Client-Paul Wurth
@@ -26,4 +26,4 @@ Now a days lots of fraud's going on in the market. This project allows business 
 > * Checking of general arrangement drawings.
 <br>
 
-<center><img src="assets/img/PW PGC.JPG"/></center>
+<center><img src="assets/img/PW PGC.JPG" width="500" height= "500" /></center>
