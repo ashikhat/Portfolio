@@ -1,8 +1,14 @@
-title: <p allign="Center">Ashish Khatkalle</p>
+title: <p align="center"> Ashish Khatakalle </p>
 logo: /assets/img/logo.png
+
 description:
-<p align="center">
-<br>
-Pursuing executive PG in ML and AI. Currently working as structural Engineer for more than 6 years. 
-</p>
+  <p align="center">
+    
+  <br>   
+  Pursuing executive PG in ML and AI. Currently working as structural Engineer for more than 6 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
